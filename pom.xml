@@ -22,7 +22,7 @@
         <repository>
             <id>github</id>
             <name>GitHub Packages</name>
-            <url>https://github.com/Agnus-sk/java-github-packages-demo.git</url>
+            <url>https://maven.pkg.github.com/Agnus-sk/java-github-packages-demo</url>
         </repository>
     </distributionManagement>
 
